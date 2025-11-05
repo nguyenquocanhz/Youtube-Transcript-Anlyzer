@@ -1,0 +1,5 @@
+{
+  "name": "Youtube Transcript & Video Analyzer With AI",
+  "description": "An application that uses AI to analyze YouTube video transcripts and videos. Paste a transcript or upload a video, choose an analysis type (like summarization or key topics), and get instant insights powered by Gemini.",
+  "requestFramePermissions": []
+}
